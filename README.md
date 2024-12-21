@@ -5,17 +5,17 @@
 </div>
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working on **Exciting Projects**.
-- 🌱 I’m currently learning **Flutter & Dart**.
-- 👯 I’m looking to collaborate on **Mobile Development**.
-- 📫 Reach me at **[Email/LinkedIn](#)**.
+- 🔭 I’m currently building a **Website**.
+- 🌱 I’m currently learning **JavaScript & CSS**.
+- 👯 I’m looking to collaborate on **Web Development**.
+- 📫 Reach me at **[yessine.hakim@outlook.com](mailto:yessine.hakim@outlook.com)** or on **[LinkedIn](https://www.linkedin.com/in/yessinehakim/)**.
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,css,html,python,github" />
 </div>
 
 ## 📊 My Stats:
-<a href="https://github.com/your-username/github-readme-stats">
-  <img alt="Your Name's Stats" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true" />
+<a href="https://github.com/YessineHakim/github-readme-stats">
+  <img alt="Yessine Hakim's Stats" src="https://github-readme-stats.vercel.app/api?username=YessineHakim&show_icons=true&theme=react&hide_border=true" />
 </a>
