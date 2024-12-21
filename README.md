@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me:
 - 🔭 I’m currently building a **Website**.
 - 🌱 I’m currently learning **JavaScript & CSS**.
-- 👨‍💻 All of my projects are available at **[My Repository]([https://github.com/ilyesw?page=1&tab=repositories](https://github.com/YessineHakim?tab=repositories))**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/YessineHakim?tab=repositories)**.
 - 📫 Reach me at **[yessine.hakim@outlook.com](mailto:yessine.hakim@outlook.com)** or on **[LinkedIn](https://www.linkedin.com/in/yessinehakim/)**.
 
 ## 🚀 Languages and Tools:
