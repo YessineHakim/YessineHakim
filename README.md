@@ -12,7 +12,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,css,html,python,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,php,html,javascript,css,python,github" />
 </div>
 
 ## 📊 My Stats:
